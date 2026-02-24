@@ -10,6 +10,7 @@ Users can register, login, browse books, add to cart, and place orders with a be
 ## 🚀 Features
 
 🎥 Demo Video : https://drive.google.com/file/d/11Keyg1mScVl3XNe7mr8SzXEGlfJz96od/view?usp=sharing
+
 🚀 Live Demo : https://book-nest-six-topaz.vercel.app/ Click the link
 ---
 
@@ -267,6 +268,7 @@ GET /api/orders
 👩‍💻 Author
 
 Developed by Sangaraju Lakshmi Narayana
+
 
 
 
